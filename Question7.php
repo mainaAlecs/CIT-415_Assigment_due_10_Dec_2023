@@ -1,5 +1,5 @@
 // Question 7 Implementation
-// Code calculates the volume of a Pizza
+// Code to calculate the volume of a Pizza
 
 <?php
 
