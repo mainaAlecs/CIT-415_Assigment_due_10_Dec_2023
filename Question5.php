@@ -1,4 +1,5 @@
 //Question 5 Implementation
+// A function that stutters a word as if someone is struggling to read it.
 <?php
 
 function stutterWord($word)   //This function  takes a word as input and returns the stuttered version according to the specified pattern.
