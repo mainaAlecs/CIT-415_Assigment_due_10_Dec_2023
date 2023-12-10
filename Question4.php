@@ -1,3 +1,5 @@
+// Question 4 Implementation
+// Code to determine the possibility of splitting a pie fairly with given parameters
 <?php
 
 class PieSplitter
