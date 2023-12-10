@@ -1,4 +1,5 @@
 // Question 6 Implementation
+// Code to compress an array into a string
 
 <?php
 
