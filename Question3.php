@@ -1,3 +1,5 @@
+// Question 3 Implementation
+// Code to help counting the number of legs for all animals in a farm.
 <?php
 
 class AnimalFarm
